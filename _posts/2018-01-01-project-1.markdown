@@ -1,0 +1,15 @@
+---
+title: Civiqueso
+subtitle: City of Austin
+layout: default
+modal-id: 1
+date: 2018-01-01
+img: City_of_Austin.png
+thumbnail: City_of_Austin_thumb.jpeg
+alt: image-alt
+project-date: January 2018
+client: NA
+category: innovation team
+description: Design, Technology, & Innovation at the City of Austin
+
+---

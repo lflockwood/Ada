@@ -1,0 +1,15 @@
+---
+title: Lab@DC
+subtitle: District of Columbia
+layout: default
+modal-id: 2
+date: 2018-01-01
+img: DC_thumb.jpg
+thumbnail: DC_thumb.jpg
+alt: image-alt
+project-date: January 2018
+client: NA
+category: innovation team
+description: Stronger evidence for a stronger DC
+
+---
